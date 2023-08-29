@@ -1,0 +1,7 @@
+.vscode
+.cache_ggshield
+venv
+*.csv
+**/__pycache__
+**/.vir
+**/.venv
